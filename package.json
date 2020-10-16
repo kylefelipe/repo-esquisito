@@ -1,0 +1,22 @@
+{
+  "name": "repo-esquisito",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylefelipe/repo-esquisito.git"
+  },
+  "author": "Kyle Felipe Vieira Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylefelipe/repo-esquisito/issues"
+  },
+  "homepage": "https://github.com/kylefelipe/repo-esquisito#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
